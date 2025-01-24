@@ -20,7 +20,7 @@ public class Main {
 		window.add(gP);
 		window.pack();
 		gP.startGameThread();
-		
+		//important: finish!
 
 		}
 
